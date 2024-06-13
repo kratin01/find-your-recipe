@@ -8,14 +8,14 @@ This React application is designed to help users find recipes for various food i
 
 ## Key Features
 
-- Recipe Search: Users can search for recipes by entering the name of a food item.
+Recipe Search: Users can search for recipes by entering the name of a food item.
 Diverse Recipe Options: The app fetches multiple recipes for each food item, giving users a variety of choices.
 
-- YouTube Integration: Each recipe link directs users to a YouTube video tutorial for step-by-step cooking instructions.
+YouTube Integration: Each recipe link directs users to a YouTube video tutorial for step-by-step cooking instructions.
 
-- User-Friendly Interface: The app features an intuitive and clean interface, making it easy to navigate and find recipes.
+User-Friendly Interface: The app features an intuitive and clean interface, making it easy to navigate and find recipes.
 
-- Responsive Design: The application is fully responsive, providing an optimal viewing experience on desktops, tablets, and mobile devices.
+Responsive Design: The application is fully responsive, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 
 ## Technologies Used
 
